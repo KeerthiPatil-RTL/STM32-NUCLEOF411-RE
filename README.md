@@ -54,11 +54,11 @@
 # Project -2  
 ## Smart Energy monitoring system using ESP32 and Blynk  
 
-<img width="395" alt="image" src="https://github.com/user-attachments/assets/53dd7508-df19-4ca9-9598-81b900ae8e70" />        
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/53dd7508-df19-4ca9-9598-81b900ae8e70" />          
 
   
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/7959cf73-d70d-414a-a318-33da9b675559" />
 
-<a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/0b6bb26343a02ad7a71c7b8fb3f2b9c473ecb7a8/Project-2.pdf">PROJECT-2</a> : **The project involves developing an energy monitoring system using the ESP32 microcontroller, ZMPT101B voltage sensor, and SCT-013 current sensor to measure real-time energy parameters. Data is processed and displayed through the Blynk app for remote monitoring and control. Challenges include component mismatches, sensor calibration, and noise interference during data collection.** 
+<a href="https://github.com/KeerthiPatil-RTL/STM32-NUCLEOF411-RE/blob/e3ce626d0c5702e791d8613af274e2de853a248d/Project-2.pdf">PROJECT-2</a> : **The project involves developing an energy monitoring system using the ESP32 microcontroller, ZMPT101B voltage sensor, and SCT-013 current sensor to measure real-time energy parameters. Data is processed and displayed through the Blynk app for remote monitoring and control. Challenges include component mismatches, sensor calibration, and noise interference during data collection.** 
 
 **PROJECT-2 PRESENTATION:** https://drive.google.com/file/d/1WEu1T_i4pCceyAz74gNbppl50YkusfaI/view?usp=drive_link
