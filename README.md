@@ -12,7 +12,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/4b25f885f293524c86e3e1d372195d1391d140bf/LAB3.pdf">LAB-3</a> :**This lab focused on configuring GPIO interrupts and ADC modes on the STM32 microcontroller. Key experiments included toggling an LED via external interrupt, implementing ADC in scan and continuous modes, and utilizing DMA for efficient data handling. The lab highlighted the advantages of interrupt-driven programming and DMA in real-time applications.**  
+<a href="https://github.com/KeerthiPatil-RTL/STM32-NUCLEOF411-RE/blob/1cbf2e64e049dbe3843fc8f2019dd54c4ab88ad4/LAB3.pdf">LAB-3</a> :**This lab focused on configuring GPIO interrupts and ADC modes on the STM32 microcontroller. Key experiments included toggling an LED via external interrupt, implementing ADC in scan and continuous modes, and utilizing DMA for efficient data handling. The lab highlighted the advantages of interrupt-driven programming and DMA in real-time applications.**  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
