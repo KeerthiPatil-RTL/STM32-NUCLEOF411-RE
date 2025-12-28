@@ -16,7 +16,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<a href="https://github.com/KeerthiPatil-RTL/STM32-NUCLEOF411-RE/blob/9834be200693f0e1ad9d5f26818e4549d949f634/LAB4.pdf">LAB-4</a> :**The lab explored UART communication by transmitting the ASCII value of 'a' and visualizing its 8-bit binary waveform on an oscilloscope. It demonstrated UART signal timing, data format, and the use of an oscilloscope for analysis. An I2C experiment was also performed to study another communication protocol.**   
+<a href="">LAB-4</a> :**The lab explored UART communication by transmitting the ASCII value of 'a' and visualizing its 8-bit binary waveform on an oscilloscope. It demonstrated UART signal timing, data format, and the use of an oscilloscope for analysis. An I2C experiment was also performed to study another communication protocol.**   
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
