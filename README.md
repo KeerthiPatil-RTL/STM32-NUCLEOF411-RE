@@ -20,7 +20,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/5d006ed23e9c808308c752761ebbd9a520012711/LAB5%20.pdf">LAB-5</a> :**The STM32 timers are configured to generate interrupts based on a defined Prescaler and Counter Period. The function HAL_TIM_Base_Start_IT(&htim1) starts Timer 1 in interrupt mode, triggering interrupts at set intervals. This allows precise, periodic execution of tasks without constant CPU intervention.**   
+<a href="https://github.com/KeerthiPatil-RTL/STM32-NUCLEOF411-RE/blob/e3ce626d0c5702e791d8613af274e2de853a248d/LAB5%20.pdf">LAB-5</a> :**The STM32 timers are configured to generate interrupts based on a defined Prescaler and Counter Period. The function HAL_TIM_Base_Start_IT(&htim1) starts Timer 1 in interrupt mode, triggering interrupts at set intervals. This allows precise, periodic execution of tasks without constant CPU intervention.**   
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------   
 
