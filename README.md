@@ -37,12 +37,12 @@
 # Project -1  
 ## Gesture and Sign Detection Communication System  
   
-   <img width="464" alt="image" src="https://github.com/user-attachments/assets/65c44477-c185-453b-822e-86a0657f4103" />    
+   <img width="464" alt="image" src="https://github.com/user-attachments/assets/65c44477-c185-453b-822e-86a0657f4103" />              
     <img width="374" alt="image" src="https://github.com/user-attachments/assets/bc84dbcc-6fea-4b34-831b-c44cd37e1e3b" />        
 
       
     
-  <a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/1db77bf6e1d190486a910e12aaec24b06f994a56/Project-1.pdf">PROJECT-1</a> : **Gesture recognition interprets hand signals, converting them into meaningful messages.Voice conversion enables audible feedback for users with speech impairments.Integrated hardware provides real-time interaction, enhancing communication and safety.**  
+  <a href="https://github.com/KeerthiPatil-RTL/STM32-NUCLEOF411-RE/blob/e3ce626d0c5702e791d8613af274e2de853a248d/Project-1.pdf">PROJECT-1</a> : **Gesture recognition interprets hand signals, converting them into meaningful messages.Voice conversion enables audible feedback for users with speech impairments.Integrated hardware provides real-time interaction, enhancing communication and safety.**  
 
 
 
